@@ -2,11 +2,15 @@
 
 The language and rules for the Wikihouse structural system for 1-3 storey buildings, initially developed in the UK for European contexts.
 
-![alt tag](https://github.com/wikihouseproject/Wren/blob/master/Images/Wren_overview.jpg)
+![Exploded drawing of axonometric joint](https://github.com/wikihouseproject/Wren/blob/master/Images/Wren_overview.jpg)
+
+# Development
+This is a development branch, code published here might have bugs and run inconsistently. The reason for publishing this is so that others might have a starting point in there own development.
+
 
 ## Wren Hardware
 
-Wren components are CNC manufuctured using structural-grade timber panel materials (typically, plywood) and can be rapidly assembled to produce a structural chassis, onto which other components such as cladding, windows, doors can be fitted.
+Wren components are CNC manufactured using structural-grade timber panel materials (typically, plywood) and can be rapidly assembled to produce a structural chassis, onto which other components such as cladding, windows, doors can be fitted.
 
 #### Wren is in development. For full documentation on how Wren works and how you can contribute to its development, visit the [Wren wiki](https://github.com/wikihouseproject/Wren/wiki)
 
@@ -53,8 +57,8 @@ The plugins used are:
 - [Alastair Parvin](https://twitter.com/AlastairParvin)
 - [David Saxby](https://twitter.com/davidsx00)
 - [Ryan McLoughlin](https://twitter.com/ryanjamesmac)
-- [Clayton Prest](https://twitter.com/ClaytonPrest) 
-- [Nick Ierodiaconou](https://twitter.com/nick_diaconou) 
+- [Clayton Prest](https://twitter.com/ClaytonPrest)
+- [Nick Ierodiaconou](https://twitter.com/nick_diaconou)
 - [Joni Steiner](https://twitter.com/jonisteiner)
 
 **Momentum Engineering** (www.momentumengineering.com)
@@ -83,10 +87,14 @@ The plugins used are:
 ## Wren Parametric Contributions
 
 **Architecture 00** (www.architecture00.net)
-- [Clayton Prest](https://twitter.com/ClaytonPrest) 
+- [Clayton Prest](https://twitter.com/ClaytonPrest)
 
 **Architype - Team Architects** (http://www.architype-ta.co.nz/)
 - [Agneesh Brahmbhatt](https://www.linkedin.com/in/agneesh-brahmbhatt-7557234?authType=NAME_SEARCH&authToken=MdJZ&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A13733489%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1482235340928%2Ctas%3Aag)
+
+**Aahus School of Architecture** (https://aarch.dk/)
+- [Povl Filip Sonne-Frederiksen](https://github.com/pfmephisto/)
+- Matthias Klith Hardarson
 
 If you believe you are missing from either of these lists of historical contributions, please contact us or fork this document to amend.
 
